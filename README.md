@@ -8,6 +8,9 @@ The spectral measurement data underlying the results presented in this paper are
 
 The processed data can be found under the folder "Data_rds", which are the input files for the downstream analyses.
 
+## Metadata
+Metadata corresponding to the measurements from the three experiments can be found under the "Metadata" folder, which include detailed information of measurement date, time, plant ID, etc.
+
 ## Code
 
 There are five R scripts in this repository:
