@@ -4,7 +4,7 @@ This repository contains the code and data for the publication "Evaluating Poten
 
 ## Data
 
-The spectral measurement data underlying the results presented in this paper are available as a published dataset at SPECCHIO http://sc22.geo.uzh.ch:8080/SPECCHIO_Web_Interface/search, with Keyword: UZH_SG_Nicotiana_attenuata_ASD
+The spectral measurement data underlying the results presented in this paper are available as a published dataset at SPECCHIO http://sc22.geo.uzh.ch:8080/SPECCHIO_Web_Interface/search, with Keyword: UZH_SG_Nicotiana_attenuata_ASD,
 OR
 at Zenodo https://zenodo.org/records/10700859 
 
